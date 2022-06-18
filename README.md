@@ -37,13 +37,13 @@ alias plink2="/frazer01/software/plink-2.3/plink2_64"
 alias plink="/frazer01/software/plink-1.90b3x/plink"
 ```
 ### Set up a python kernel for the jupyter lab
-TODO 
+Coming soon.
 
 
 # Running a qsub job
 
-TODO
+Coming soon.
 
 # Useful File Locations
 
-TODO
+Coming soon.
